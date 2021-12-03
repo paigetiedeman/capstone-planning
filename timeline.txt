@@ -7,4 +7,6 @@ Timelog
 11:10: Brainstorm Workouts
   - videos: 
       - https://www.youtube.com/watch?v=lyRP_D0qCfk
-  
+      - https://www.youtube.com/watch?v=L-kxXFtql4Q
+      - https://www.youtube.com/watch?v=_CBYbEGvxYY 
+        * React Native app?

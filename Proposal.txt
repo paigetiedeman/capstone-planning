@@ -1,0 +1,22 @@
+Name of Project: Evolve Everyday
+
+Project's Purpose or Goal: Plan out a workout schedule based on user-created workouts. User's should be able to plan/create a full-body schedule so that different muscle groups are targeted and every day is not just the upper body. 
+
+List the absolute minimum features the project requires to meet this purpose or goal:
+
+Full CRUD on workouts 
+Calendar population
+Hosted either on gh-pages or another site
+What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+
+React.js
+HTML
+CSS/SCSS/Bootstrap
+Database: Firebase/MongoDB - need to explore to see which will host better
+If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+
+Extra designed "blog" space with articles on nutrition, meditation, trainer tips
+Meal Planner/Tracker
+Animations 
+Drag and Drop Calendar
+Workout API connection to suggest random/fun workouts 
