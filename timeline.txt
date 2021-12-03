@@ -10,3 +10,7 @@ Timelog
       - https://www.youtube.com/watch?v=L-kxXFtql4Q
       - https://www.youtube.com/watch?v=_CBYbEGvxYY 
         * React Native app?
+
+1:15- : Watching Udemy Courses to get ideas on how best to set up Project
+  - Complete guide to .Net and React
+  -  
