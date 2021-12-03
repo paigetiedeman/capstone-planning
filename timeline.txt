@@ -10,7 +10,11 @@ Timelog
       - https://www.youtube.com/watch?v=L-kxXFtql4Q
       - https://www.youtube.com/watch?v=_CBYbEGvxYY 
         * React Native app?
+        * Not exactly what I want to do but intresting to maybe try as a stretch
 
 1:15- : Watching Udemy Courses to get ideas on how best to set up Project
   - Complete guide to .Net and React
-  -  
+
+2:45 More YouTube - do I want to base this around a calendar or just do full CRUD for workouts
+  - https://www.youtube.com/watch?v=iNkryf_TtZw
+    - Sync fusion calendar/scheduler?
