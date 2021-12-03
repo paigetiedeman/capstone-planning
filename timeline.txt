@@ -1,0 +1,4 @@
+Timelog
+
+8:15 - : Going through homework for next week to learn firebase
+  - https://github.com/paigetiedeman/help-queue.git
