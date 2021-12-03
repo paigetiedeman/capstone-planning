@@ -1,5 +1,10 @@
 Timelog
 
-8:15 -  : Going through homework for next week to learn firebase
+8:15 - 11:05 : Going through homework for next week to learn firebase
   - https://github.com/paigetiedeman/help-queue.git
-  - 10:50: help-queue not working with firbase trying stackO fixes
+  - 10:50: help-queue not working with firebase trying stackO fixes
+
+11:10: Brainstorm Workouts
+  - videos: 
+      - https://www.youtube.com/watch?v=lyRP_D0qCfk
+  
