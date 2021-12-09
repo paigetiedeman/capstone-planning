@@ -12,7 +12,7 @@ Timelog
       - https://www.youtube.com/watch?v=L-kxXFtql4Q
       - https://www.youtube.com/watch?v=_CBYbEGvxYY 
         * React Native app?
-        * Not exactly what I want to do but intresting to maybe try as a stretch
+        * Not exactly what I want to do but interesting to maybe try as a stretch
 
 1:15- : Watching Udemy Courses to get ideas on how best to set up Project
   - Complete guide to .Net and React
@@ -25,3 +25,9 @@ Timelog
   - https://github.com/paigetiedeman/Elevate-Everyday.git
   - React Routing Series: https://www.youtube.com/watch?v=aZGzwEjZrX
 
+12/9
+
+2:00-4:00pm: Trying to fix help queue to work with current versions of firebase/firestore
+  - https://www.youtube.com/watch?v=1Z7kjuu6RNs
+  - help queue: https://github.com/paigetiedeman/help-queue.git
+  - Cannot get firebase hosting to work
