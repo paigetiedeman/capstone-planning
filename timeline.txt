@@ -40,6 +40,5 @@ Timelog
   - MERN stack research: https://www.youtube.com/watch?v=7CqJlxBYj-M
   - New version: https://www.youtube.com/watch?v=mrHNSanmqQ4
 
-9:30 Firebase with CRUD + Authentication
+9:30 - 12 Firebase with CRUD + Authentication
   - https://www.youtube.com/watch?v=jCY6DH8F4oc
-  
