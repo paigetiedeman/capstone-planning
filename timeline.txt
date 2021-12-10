@@ -25,10 +25,11 @@ Timelog
   - https://github.com/paigetiedeman/Elevate-Everyday.git
   - React Routing Series: https://www.youtube.com/watch?v=aZGzwEjZrX
 
-12/9 (10 hours total)
+12/9 (10.9 hours total)
 
-2:00-4:30pm: Trying to fix help queue to work with current versions of firebase/firestore
+2:00-4:50pm: Trying to fix help queue to work with current versions of firebase/firestore
   - https://www.youtube.com/watch?v=1Z7kjuu6RNs
   - help queue: https://github.com/paigetiedeman/help-queue.git
   - Cannot get firebase hosting to work
   - More videos :( https://www.youtube.com/watch?v=QLVzozWDYAs
+  - https://www.youtube.com/watch?v=hKKY5qsG3hQ
