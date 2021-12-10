@@ -33,3 +33,9 @@ Timelog
   - Cannot get firebase hosting to work
   - More videos :( https://www.youtube.com/watch?v=QLVzozWDYAs
   - https://www.youtube.com/watch?v=hKKY5qsG3hQ
+
+12/10 ()
+
+8:15- 
+  - MERN stack research: https://www.youtube.com/watch?v=7CqJlxBYj-M
+  - 
