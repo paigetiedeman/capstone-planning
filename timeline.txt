@@ -1,6 +1,6 @@
 Timelog
 
-12/3/21 (8ish hours total)
+12/3/21 (8.5 hours total)
 
 8:15 - 11:05 : Going through homework for next week to learn firebase
   - https://github.com/paigetiedeman/help-queue.git
@@ -25,7 +25,7 @@ Timelog
   - https://github.com/paigetiedeman/Elevate-Everyday.git
   - React Routing Series: https://www.youtube.com/watch?v=aZGzwEjZrX
 
-12/9 (10.9 hours total)
+12/9 (11ish hours total)
 
 2:00-4:50pm: Trying to fix help queue to work with current versions of firebase/firestore
   - https://www.youtube.com/watch?v=1Z7kjuu6RNs
@@ -34,7 +34,7 @@ Timelog
   - More videos :( https://www.youtube.com/watch?v=QLVzozWDYAs
   - https://www.youtube.com/watch?v=hKKY5qsG3hQ
 
-12/10 ()
+12/10 (14.5 hours total)
 
 8:15- 9:30
   - MERN stack research: https://www.youtube.com/watch?v=7CqJlxBYj-M
@@ -43,3 +43,8 @@ Timelog
 9:30 - 12 Firebase with CRUD + Authentication
   - https://www.youtube.com/watch?v=jCY6DH8F4oc
   - Creating project on Firebase
+
+12/13 (16ish hours)
+
+9-
+  - Finishing up tutorial/coding in main repo
