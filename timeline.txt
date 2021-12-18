@@ -50,7 +50,9 @@ Timelog
   - Finishing up tutorial/coding in main repo
   - React Authentication with Routing: https://www.youtube.com/watch?v=PKwu15ldZ7k
 
-12/17
+12/17 (25.5 Hours total)
 
-8:15-
+8:15-6 pm
   - Working on Capstone CRUD
+  - Adding in Semantic UI forms
+  - Control and redux added
