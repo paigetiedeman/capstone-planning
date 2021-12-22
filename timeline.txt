@@ -56,3 +56,9 @@ Timelog
   - Working on Capstone CRUD
   - Adding in Semantic UI forms
   - Control and redux added
+
+12/21 ()
+
+9-5 pm
+  - Troubleshooting authentication, CRUD
+  - Working on adding multiple additions of tags with semantic UI and firebase
