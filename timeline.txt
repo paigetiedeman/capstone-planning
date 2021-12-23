@@ -68,3 +68,9 @@ Timelog
 10-5 pm, 9-11:30
   - Day spent styling and fixing issues relating to accessing data in  Firebase
   - Added Calendar components but issues with formatting and tailwind 
+
+12/23 (47 hours)
+
+9-12 pm
+  - Styling and adding Blog components
+  - Present!!
