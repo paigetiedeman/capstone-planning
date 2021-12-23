@@ -57,8 +57,14 @@ Timelog
   - Adding in Semantic UI forms
   - Control and redux added
 
-12/21 ()
+12/21 (35.5 hours total)
 
-9-5 pm
+9-5 pm, 8-11 pm
   - Troubleshooting authentication, CRUD
   - Working on adding multiple additions of tags with semantic UI and firebase
+
+12/22 ()
+
+10-5 pm, 9-
+  - Day spent styling and fixing issues relating to accessing data in  Firebase
+  
