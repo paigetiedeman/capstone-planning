@@ -1,22 +1,54 @@
-Name of Project: Evolve Everyday
+Name of Project: Elevate Everyday
 
-Project's Purpose or Goal: Plan out a workout schedule based on user-created workouts. User's should be able to plan/create a full-body schedule so that different muscle groups are targeted and every day is not just the upper body. 
+Project Description: 
 
-List the absolute minimum features the project requires to meet this purpose or goal:
+`Store workout's based on user-inputs. Focused on UI/UX design elements with a cloud database.`
 
-Full CRUD on workouts 
-Calendar population
-Hosted either on gh-pages or another site
-What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.
+MVP:
 
+`Full CRUD on workouts 
+Calendar population - in progress as formatting is messed up
+Hosted either on gh-pages or another site`
+
+Tools & Technologies
+
+`
 React.js
 HTML
-CSS/SCSS/Bootstrap
-Database: Firebase/MongoDB - need to explore to see which will host better
-If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
+CSS/Bootstrap
+Semantic UI
+Tailwind
+Day.js
+React Router
+Redux
+Firebase/Firestore
+`
 
-Extra designed "blog" space with articles on nutrition, meditation, trainer tips
+Stretch Goals: 
+
+`
+Extra designed "blog" space with articles on nutrition, meditation, trainer tips - completed
 Meal Planner/Tracker
 Animations 
 Drag and Drop Calendar
-Workout API connection to suggest random/fun workouts 
+`
+
+Lessons Learned: 
+
+`
+CSS frameworks do not like to work together
+Referencing Firebase subcollections with inputs
+Sometimes less is more
+`
+
+Technologies Used: 
+* HTML
+* CSS
+* React-Bootstrap
+* Semantic UI
+* Tailwind
+* React Router
+* Firebase/Firestore
+* React.js
+* Day.js
+* Redux
